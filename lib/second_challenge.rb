@@ -9,6 +9,4 @@ def second_challenge
   #code your solution here!
 social_challenge.collect do |category, data|
   print data.values
-
-
 end
